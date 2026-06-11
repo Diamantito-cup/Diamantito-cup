@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3 align="center">Jeloudah 👋</h3>
 
-<!--
-**Diamantito-cup/Diamantito-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="800" height="450" alt="AR" src="https://github.com/user-attachments/assets/fc8758c6-a143-46ad-8ecc-84d5942ffbf3" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quieren aportar en algo estoy 100% disponible y gustoso de ayudar, suelo ser alguien bastante erratico así que bueno, no esperen mucho, jejejejeje :3
+
+---
+
+## Gustos💫
+
+1- Me gusta programar (en C, C#, Lua, Go y Rust)
+
+2- El anime (por ejemplo, Dr.Stone, Jujutsu Kaisen, Miss Kobayashi San, DBS, y un largo E.T.C...)
+
+3- Los videojuegos(especialmente los gacha y metroidvania, como ZZZ, NTE, Hollow Knight y Shovel Knigth)
+
+4- Crear cosas
+
+5- Estudiar (las cosas que me gustan)
+
+6- Cacharrear en mi PC
+
+y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros repositorios, me ayudarían muchísimo :< 
