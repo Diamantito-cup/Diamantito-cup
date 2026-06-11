@@ -20,6 +20,6 @@ Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quier
 
 5- Estudiar (las cosas que me gustan)
 
-6- Cacharrear en mi PC
+6- Cacharrear en mi PC (hello, Linux >:3)
 
 y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros repositorios, me ayudarían muchísimo :< 
