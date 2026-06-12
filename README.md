@@ -12,7 +12,7 @@ Si les interesa lo que hago o quieren aportar en algo, estoy 100% disponible. Me
 
 ## 💫 Gustos
 
-* 💻 Programar (C, C#, Lua, Go, Rust)
+* 💻 Programar (C, C#, Lua, Go, Rust) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 * 🎌 Anime (Dr. Stone, Jujutsu Kaisen, Miss Kobayashi, DBS, etc...)
 * 🎮 Videojuegos (gacha + metroidvania: Hollow Knight, Shovel Knight, ZZZ...)
 * 🛠️ Crear cosas (si me llama la atención, le entro)
