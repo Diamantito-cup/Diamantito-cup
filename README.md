@@ -4,52 +4,60 @@
 
 ---
 
-Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quieren aportar en algo estoy 100% disponible y gustoso de ayudar, suelo ser alguien bastante erratico así que bueno, no esperen mucho, jejejejeje :3
+Buenas gente, ¿Cómo están? Yo bastante bien.
+
+Si les interesa lo que hago o quieren aportar en algo, estoy 100% disponible. Me gusta construir cosas grandes… aunque a veces ni yo sé cómo terminé ahí :3
 
 ---
 
-## Gustos💫
+## 💫 Gustos
 
-1- Me gusta programar (en C, C#, Lua, Go y Rust) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ...
-
-2- El anime (por ejemplo, Dr.Stone, Jujutsu Kaisen, Miss Kobayashi San, DBS, y un largo E.T.C...)
-
-3- Los videojuegos(especialmente los gacha y metroidvania, como ZZZ, NTE, Hollow Knight y Shovel Knight)
-
-4- Crear cosas (Lo que sea que me llame la atención, le entro)
-
-5- Estudiar (las cosas que me gustan)
-
-6- Cacharrear en mi PC (hello, Linux >:3)
-
-7- Mi pasatiempo favorito es... **compilar kernels RC para probar nuevos Drivers** :3
-
-y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros repositorios, me ayudarían muchísimo :< 
+* 💻 Programar (C, C#, Lua, Go, Rust)
+* 🎌 Anime (Dr. Stone, Jujutsu Kaisen, Miss Kobayashi, DBS, etc...)
+* 🎮 Videojuegos (gacha + metroidvania: Hollow Knight, Shovel Knight, ZZZ...)
+* 🛠️ Crear cosas (si me llama la atención, le entro)
+* 📚 Estudiar lo que me gusta
+* 🐧 Cacharrear en Linux (obviamente >:3)
+* ⚙️ Compilar kernels RC para probar drivers nuevos (sí, por diversión)
 
 ---
 
-## Preyectos actuales :3
+## 🚀 Proyectos actuales
 
-**Distro Propia de Linux *(Atomic-Linux Project, +40K lineas en Go, Lua, C, Nix, E.T.C...)***
+### 🐧 Atomic-Linux Project
 
-**Dotfiles de Hypralnd *(Lua)***
+Distro Linux propia
++40K líneas en Go, Lua, C, Nix y un largo E.T.C...
+Sistema modular con instalador, shell personalizada y entorno optimizado
 
-**Juego Propio en Unity *(C#)***
+### 🎨 Dotfiles Hyprland
+
+Configuración personalizada en Lua
+Enfoque en estética + rendimiento + fluidez
+
+### 🎮 Juego en Unity
+
+Metroidvania 2D estilo artístico tipo Hollow Knight
+Exploración libre + dificultad alta (sí, vas a sufrir)
 
 ---
 
 ## 🧪 Estado actual de desarrollador
 
-**- ☕ Combustible: café + sueño raro**
+* **☕ Combustible: café + sueño raro**
 
-**- 🧠 Modo: hiperfoco *(y Aburrido, XD)***
+* **🧠 Modo: hiperfoco *(a veces aburrido, XD)***
 
-**- 🐧 OS: Arch Linux *(obviamente >:3)***
+* **🐧 OS: Arch Linux *(obviamente)***
 
-**- 🔥 Nivel de caos: variable *(Jejejejejeje)***
+* **🔥 Nivel de caos: variable**
 
 ---
 
-## Mis estadisticas actuales ✨
+## ✨ Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Diamantito-cup)
+
+---
+
+Si quieres ver lo que hago o colaborar en algo, pásate por mis repos, están abajo, jejejejeje 👀
