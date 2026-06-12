@@ -22,6 +22,8 @@ Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quier
 
 6- Cacharrear en mi PC (hello, Linux >:3)
 
+7- Mi pasatiempo favorito es... **compilar kernels RC para probar nuevos Drivers** :3
+
 y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros repositorios, me ayudarían muchísimo :< 
 
 ---
@@ -29,7 +31,9 @@ y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros re
 ## Preyectos actuales :3
 
 **Distro Propia de Linux *(Atomic-Linux Project, +40K lineas en Go, Lua, C, Nix, E.T.C...)***
+
 **Dotfiles de Hypralnd *(Lua)***
+
 **Juego Propio en Unity *(C#)***
 
 ---
