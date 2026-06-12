@@ -24,32 +24,28 @@ Si les interesa lo que hago o quieren aportar en algo, estoy 100% disponible. Me
 
 ## 🚀 Proyectos actuales
 
-### 🐧 Atomic-Linux Project
+**🐧 Atomic-Linux Project**
 
 Distro Linux propia
 +40K líneas en Go, Lua, C, Nix y un largo E.T.C...
-Sistema modular con instalador, shell personalizada y entorno optimizado
 
-### 🎨 Dotfiles Hyprland
+**🎨 Dotfiles Hyprland**
 
 Configuración personalizada en Lua
-Enfoque en estética + rendimiento + fluidez
+Enfoque en estética + rendimiento + fluidez :3
 
-### 🎮 Juego en Unity
+**🎮 Juego en Unity**
 
 Metroidvania 2D estilo artístico tipo Hollow Knight
-Exploración libre + dificultad alta (sí, vas a sufrir)
+Exploración libre + dificultad alta (sí, vas a sufrir, jejejejeje, q no se note que me gusta Hollow Knight)
 
 ---
 
 ## 🧪 Estado actual de desarrollador
 
 * **☕ Combustible: café + sueño raro**
-
 * **🧠 Modo: hiperfoco *(a veces aburrido, XD)***
-
 * **🐧 OS: Arch Linux *(obviamente)***
-
 * **🔥 Nivel de caos: variable**
 
 ---
