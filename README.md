@@ -10,13 +10,13 @@ Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quier
 
 ## Gustos💫
 
-1- Me gusta programar (en C, C#, Lua, Go y Rust)
+1- Me gusta programar (en C, C#, Lua, Go y Rust) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ...
 
 2- El anime (por ejemplo, Dr.Stone, Jujutsu Kaisen, Miss Kobayashi San, DBS, y un largo E.T.C...)
 
-3- Los videojuegos(especialmente los gacha y metroidvania, como ZZZ, NTE, Hollow Knight y Shovel Knigth)
+3- Los videojuegos(especialmente los gacha y metroidvania, como ZZZ, NTE, Hollow Knight y Shovel Knight)
 
-4- Crear cosas
+4- Crear cosas (Lo que sea que me llame la atención, le entro)
 
 5- Estudiar (las cosas que me gustan)
 
