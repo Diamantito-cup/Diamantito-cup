@@ -37,8 +37,11 @@ y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros re
 ## 🧪 Estado actual de desarrollador
 
 **- ☕ Combustible: café + sueño raro**
+
 **- 🧠 Modo: hiperfoco *(y Aburrido, XD)***
+
 **- 🐧 OS: Arch Linux *(obviamente >:3)***
+
 **- 🔥 Nivel de caos: variable *(Jejejejejeje)***
 
 ---
