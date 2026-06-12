@@ -23,3 +23,26 @@ Buenas gente,  ¿Cómo están?, yo muy bien, si les intereza lo que hago o quier
 6- Cacharrear en mi PC (hello, Linux >:3)
 
 y bueno, creo que eso sería todo, si quieren pasen a ver alguno de mis otros repositorios, me ayudarían muchísimo :< 
+
+---
+
+## Preyectos actuales :3
+
+**Distro Propia de Linux *(Atomic-Linux Project, +40K lineas en Go, Lua, C, Nix, E.T.C...)***
+**Dotfiles de Hypralnd *(Lua)***
+**Juego Propio en Unity *(C#)***
+
+---
+
+## 🧪 Estado actual de desarrollador
+
+**- ☕ Combustible: café + sueño raro**
+**- 🧠 Modo: hiperfoco *(y Aburrido, XD)***
+**- 🐧 OS: Arch Linux *(obviamente >:3)***
+**- 🔥 Nivel de caos: variable *(Jejejejejeje)***
+
+---
+
+## Mis estadisticas actuales ✨
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Diamantito-cup)
