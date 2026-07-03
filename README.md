@@ -66,4 +66,4 @@ Un pequeño proyecto que está naciendo, solo busca satisfacer mis necesidades a
 
 Si quieres ver lo que hago o colaborar en algo, pásate por mis repos, están abajo, jejejejeje 👀
 
-Además que contribuyo a esta organización <3 **[Atomic Linux Team](https://atomic-linux-team.netlify.app/)** esto los va a redirigir a la pagina de inicio de la organización, bueno, ya, los dejo, jajajajaja
+Además que contribuyo a esta organización de GitHub(la creé yo mismo, ya hay gente dentro, capaz te guste, quien sabe, jejejeje) <3 **[Atomic Linux Team](https://atomic-linux-team.netlify.app/)** esto los va a redirigir a la pagina de inicio de la organización, bueno, ya, los dejo, jajajajaja
