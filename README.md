@@ -1,4 +1,5 @@
-<h3 align="center">Jeloudah 👋</h3>
+<h1 align="center">Jeloudah 👋</h1>
+
 <p align="center">
 <img width="800" height="450" alt="AR" src="https://github.com/user-attachments/assets/fc8758c6-a143-46ad-8ecc-84d5942ffbf3" />
 </p>
