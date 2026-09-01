@@ -1,69 +1,76 @@
-<h1 align="center">Jeloudah 👋</h1>
+<h1 data-importer="text" align="center">Jeloudah</h1>
 
-<p align="center">
-<img width="800" height="450" alt="AR" src="https://github.com/user-attachments/assets/fc8758c6-a143-46ad-8ecc-84d5942ffbf3" />
-</p>
+###
 
-> *Un programadór random más, XD*
-
----
-
-Buenas gente, ¿Cómo están? Yo bastante bien.
-
-Si les interesa lo que hago o quieren aportar en algo, estoy 100% disponible. Me gusta construir cosas grandes… aunque a veces ni yo sé cómo terminé ahí :3
+<div data-importer="image" align="center">
+  <img data-importer="image" height="290" src="https://github.com/user-attachments/assets/fc8758c6-a143-46ad-8ecc-84d5942ffbf3"  />
+</div>
 
 ---
 
-<h2 align="center">💫 Gustos</h2>
+Jeloudah, soy un pequeño friki de la tecnología que tiene muy poco tiempo libre pero muchas ganas de programár.
 
-* 💻 Programar (C, C#, Lua, Go, Rust, Shell(Bash), JS, HTML y CSS) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-* 🎌 Anime (Dr. Stone, Jujutsu Kaisen, Miss Kobayashi, DBS, etc...)
-* 🎮 Videojuegos (gacha + metroidvania: Hollow Knight, Shovel Knight, ZZZ...)
-* 🛠️ Crear cosas (si me llama la atención, le entro)
-* 📚 Estudiar lo que me gusta
-* 🐧 Cacharrear en Linux (obviamente >:3)
-* ⚙️ Compilar kernels RC para probar drivers nuevos (sí, por diversión)
+Sip, reviví >:3
 
 ---
 
-<h2 align="center">🚀 Proyectos actuales</h2>
+<h2 data-importer="text" align="left">Proyectos actuales</h2>
 
-* **🐧 Atomic-Linux Project**
+* **Atomic-Linux**: Una dsitro que tiene un entorno live con **[Hyprland](https://github.com/hyprwm/Hyprland.git)** y **[Brain_Shell](https://github.com/Brainitech/Brain_Shell.git)** una shell escrita con tecnología QuickSHell y respaldada por QML/Qt-Quick, libertad y control total desde el live.
 
-Distro Linux propia
-+40K líneas en Go, Lua, C, Nix y un largo E.T.C... **[Atomic Linux Project](https://github.com/Atomic-Linux-Team/atomic-linux/)**
+* **Mis dotfiles**: Unos dotfiles básicos de mi entorno, escrito en Lua y otros lengujes **[Dotfiles For Hyprland](https://github.com/Diamantito-cup/Dotfiles-For-Hyprland.git)**
 
-* **🎨 Dotfiles Hyprland**
-
-Configuración personalizada en Lua
-Enfoque en estética + rendimiento + fluidez :3 **[Dotfiles For Hyprland](https://github.com/Diamantito-cup/Dotfiles_For_Hyprland)**
-
-* **🎮 Juego en Unity**
-
-Metroidvania 2D estilo artístico tipo Hollow Knight
-Exploración libre + dificultad alta (sí, vas a sufrir, jejejejeje, q no se note que me gusta Hollow Knight)
-
-* **⚙️ Mi Propia Libreria de Bash**
-
-Un pequeño proyecto que está naciendo, solo busca satisfacer mis necesidades a la hora de crear scripts en Bash, pero... Tal vez a tí tambien te podría servir :3 **[ABSL - Atomic Bash Standard Libs](https://github.com/Diamantito-cup/ABSL-Atomic-Bash-Standard-Libs/)**
+* **Un Juego**: Yo y otrso conocidos nos juntamos para poder crear un juego en Unity y liberamos las bases para que cualquiera las pueda usar, a este decidimos llamrle (de forma temporal) **[Project-Nova](https://github.com/Diamantito-cup/Project-Nova.git)**
 
 ---
 
-<h2 align="center">🧪 Estado actual de desarrollador</h2>
+<h2 data-importer="text" align="left">Suelo programar en</h2>
 
-* **☕ Combustible: café + sueño raro**
-* **🧠 Modo: hiperfoco *(a veces aburrido, XD)***
-* **🐧 OS: Arch Linux *(obviamente)***
-* **🔥 Nivel de caos: variable**
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="40" alt="goland logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
 
-## ✨ Stats
+###
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diamantito-cup&theme=gotham)
+<img data-importer="snake" src="https://raw.githubusercontent.com/Diamantito-cup/Diamantito-cup/snake-output/snake.svg" alt="Snake animation" />
 
----
+###
 
-Si quieres ver lo que hago o colaborar en algo, pásate por mis repos, están abajo, jejejejeje 👀
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Ange">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ange&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-Además que contribuyo a esta organización de GitHub(la creé yo mismo, ya hay gente dentro, capaz te guste, quien sabe, jejejeje) <3 **[Atomic Linux Team](https://atomic-linux-team.netlify.app/)** esto los va a redirigir a la pagina de inicio de la organización, bueno, ya, los dejo, jajajajaja
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
+</div>
