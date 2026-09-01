@@ -1,10 +1,7 @@
-name: Metrics
+name: Metrics Avanzado
 on:
-  # Se ejecuta automáticamente todas las noches
   schedule: [{cron: "0 0 * * *"}]
-  # Te permite activarlo manualmente con un botón cuando quieras
   workflow_dispatch:
-  # Se ejecuta cada vez que haces un push en tu rama principal
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,31 +11,29 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Nombre del archivo que va a generar en tu repositorio
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Configuración básica basada en tu primera imagen
           user: Diamantito-cup
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Bogota # Ajusta a tu zona horaria si quieres
+          base: header
+          config_timezone: America/Bogota
 
-          # 📊 PLUGIN: Lenguajes más usados
+          # 📊 1. PLUGIN: Lenguajes Estilizados
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-percentage, lines
           plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
 
-          # 🧮 PLUGIN: Hábitos de programación y actividad reciente
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # 🍿 2. PLUGIN: AniList (Anime y Manga)
+          plugin_anilist: yes
+          plugin_anilist_user: AngeXD
+          plugin_anilist_sections: favorites, watching, reading
+          plugin_anilist_limit: 4
 
-          # 🧱 PLUGIN: Tecnologías e iconos ordenados (los cuadritos de abajo)
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: icons
-          plugin_topics_limit: 20
+          # 🎮 3. PLUGIN: Steam (Juegos)
+          # Generará un archivo separado llamado metrics.plugin.steam.svg
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }} # <-- Lo configuramos en el paso 2
+          plugin_steam_user: 76561199568234712     # <-- Tu SteamID64 (ej. 76561198xxxxxxxx)
+          plugin_steam_sections: player, recent, favorites
+          plugin_steam_games_limit: 4
