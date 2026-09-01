@@ -26,14 +26,15 @@ jobs:
 
           # 🍿 2. PLUGIN: AniList (Anime y Manga)
           plugin_anilist: yes
+          plugin_anilist_output: svg # <-- MÁGICO: Crea un archivo independiente
           plugin_anilist_user: AngeXD
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 4
 
           # 🎮 3. PLUGIN: Steam (Juegos)
-          # Generará un archivo separado llamado metrics.plugin.steam.svg
           plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }} # <-- Lo configuramos en el paso 2
-          plugin_steam_user: 76561199568234712     # <-- Tu SteamID64 (ej. 76561198xxxxxxxx)
+          plugin_steam_output: svg # <-- MÁGICO: Crea un archivo independiente
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561199568234712"
           plugin_steam_sections: player, recent, favorites
           plugin_steam_games_limit: 4
