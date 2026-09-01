@@ -9,7 +9,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # ================= PASO 1: ESTADÍSTICAS Y LENGUAJES =================
+      - name: Generar Stats Principales
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -17,24 +19,32 @@ jobs:
           template: classic
           base: header
           config_timezone: America/Bogota
-
-          # 📊 1. PLUGIN: Lenguajes Estilizados
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
 
-          # 🍿 2. PLUGIN: AniList (Anime y Manga)
-          plugin_anilist: yes
-          plugin_anilist_output: svg # <-- MÁGICO: Crea un archivo independiente
-          plugin_anilist_user: AngeXD
-          plugin_anilist_sections: favorites, watching, reading
-          plugin_anilist_limit: 4
-
-          # 🎮 3. PLUGIN: Steam (Juegos)
-          plugin_steam: yes
-          plugin_steam_output: svg # <-- MÁGICO: Crea un archivo independiente
+      # ================= PASO 2: TARJETA DE STEAM LIMPIA =================
+      - name: Generar Tarjeta de Steam
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
           plugin_steam_user: "76561199568234712"
           plugin_steam_sections: player, recent, favorites
           plugin_steam_games_limit: 4
+
+      # ================= PASO 3: ANILIST ANIME =================
+      - name: Generar Tarjeta de Anime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: AngeXD
+          plugin_anilist_sections: favorites, watching, reading
+          plugin_anilist_limit: 4
