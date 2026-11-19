@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Diamantito-cup/Dotfiles_For_Hyprland"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dotfiles-for-hyprland-dark.svg"><img src="assets/project-dotfiles-for-hyprland-light.svg" width="49%" alt="Dotfiles_For_Hyprland"></picture></a>&nbsp;<a href="https://github.com/Diamantito-cup/ABSL-Atomic-Bash-Standard-Libs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-absl-atomic-bash-standard-libs-dark.svg"><img src="assets/project-absl-atomic-bash-standard-libs-light.svg" width="49%" alt="ABSL-Atomic-Bash-Standard-Libs"></picture></a>
-
-<a href="https://github.com/Diamantito-cup/Project-Nova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-project-nova-dark.svg"><img src="assets/project-project-nova-light.svg" width="49%" alt="Project-Nova"></picture></a>&nbsp;<a href="https://github.com/Diamantito-cup/Diamantito-cup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-diamantito-cup-dark.svg"><img src="assets/project-diamantito-cup-light.svg" width="49%" alt="Diamantito-cup"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

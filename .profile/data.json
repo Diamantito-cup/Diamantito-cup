@@ -1,0 +1,184 @@
+{
+ "key": "ec86fdd2",
+ "stars": 9,
+ "contributions": 353,
+ "repos": 4,
+ "followers": 16,
+ "languages": [
+  [
+   "C#",
+   364952
+  ],
+  [
+   "ShaderLab",
+   96874
+  ],
+  [
+   "Lua",
+   61280
+  ],
+  [
+   "HLSL",
+   19973
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 42,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Dotfiles_For_Hyprland",
+   "url": "https://github.com/Diamantito-cup/Dotfiles_For_Hyprland",
+   "text": "Creado en español, perdon a aquellos que son de otras lenguas :(, sigo trabajandoen la traducción, este repo es para dotfiles de Hyprland en arch linux (tambien en otras distros pero principalmente arch)",
+   "fork": false,
+   "stars": 5,
+   "language": "Lua",
+   "topics": [
+    "archlinux",
+    "archlinux-dotfiles",
+    "dotfiles",
+    "dotfiles-installer",
+    "dotfiles-linux",
+    "hyprland-arch",
+    "hyprland-config",
+    "hyprland-dot-files",
+    "hyprland-dotfiles",
+    "hyprland-dots"
+   ]
+  },
+  {
+   "name": "ABSL-Atomic-Bash-Standard-Libs",
+   "url": "https://github.com/Diamantito-cup/ABSL-Atomic-Bash-Standard-Libs",
+   "text": "Mis Librerias de Bash personales",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Project-Nova",
+   "url": "https://github.com/Diamantito-cup/Project-Nova",
+   "text": "Repositorio sobre mi juego :3",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Diamantito-cup",
+   "url": "https://github.com/Diamantito-cup/Diamantito-cup",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
