@@ -1,30 +1,25 @@
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-### 📊 Estadísticas de Programación
-<img src="github-metrics.svg" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Ange^_^ Ange^_^"></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.525%" alt=""></picture><a href="https://discord.gg/F4aMYfAEv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/diamantitoyt6"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="10.814%" alt="x"></picture></a><a href="https://www.youtube.com/channel/UCEsqWcIx0gmnvcp47VMC6hw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="17.583%" alt="youtube"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.525%" alt=""></picture>
 
-<details>
-  <summary>🕹️ Ver biblioteca de Steam</summary>
-  <br/>
-  <p>Mi actividad en Steam se mostrará aquí.</p>
-</details>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-    </td>
-    <td width="50%" valign="top">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-### 🌸 Mi Lista de Anime y Manga
-<details open>
-  <summary>📺 Para ver en tiempo libre</summary>
-  <br/>
-  <p>Mi actividad de AniList se mostrará aquí.</p>
-</details>
+<a href="https://github.com/Diamantito-cup/Dotfiles_For_Hyprland"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dotfiles-for-hyprland-dark.svg"><img src="assets/project-dotfiles-for-hyprland-light.svg" width="49%" alt="Dotfiles_For_Hyprland"></picture></a>&nbsp;<a href="https://github.com/Diamantito-cup/ABSL-Atomic-Bash-Standard-Libs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-absl-atomic-bash-standard-libs-dark.svg"><img src="assets/project-absl-atomic-bash-standard-libs-light.svg" width="49%" alt="ABSL-Atomic-Bash-Standard-Libs"></picture></a>
 
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Diamantito-cup/Project-Nova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-project-nova-dark.svg"><img src="assets/project-project-nova-light.svg" width="49%" alt="Project-Nova"></picture></a>&nbsp;<a href="https://github.com/Diamantito-cup/Diamantito-cup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-diamantito-cup-dark.svg"><img src="assets/project-diamantito-cup-light.svg" width="49%" alt="Diamantito-cup"></picture></a>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Diamantito-cup?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Diamantito-cup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
