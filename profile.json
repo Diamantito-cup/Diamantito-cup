@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Diamantito-cup",
-  "seed": "#10131B",
+  "seed": "#4B4D56",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm Ange^_^",
     "name": "Ange^_^",
-    "subtitle": "I build customs OSs an dotfiles for Linux :D",
+    "subtitle": "I build custom OSs an dotfiles for Linux :D",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -44,7 +44,7 @@
       },
       {
         "icon": "code",
-        "label": "Low Level Programing"
+        "label": "Low Level Programming"
       },
       {
         "icon": "palette",
