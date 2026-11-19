@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Diamantito-cup",
-  "seed": "#4B4D56",
+  "seed": "#0F121B",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -149,15 +149,22 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://open-cosmic-project.github.io",
         "style": "filled"
       },
       {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
+        "icon": "group",
+        "label": "Atomic Linux Team",
+        "url": "https://github.com/Atomic-Linux-Team",
+        "style": "tonal"
+      },
+      {
+        "icon": "group",
+        "label": "Open Cosmic Project",
+        "url": "https://github.com/Open-Cosmic-Project",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
