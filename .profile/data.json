@@ -1,9 +1,9 @@
 {
- "key": "bef71026",
+ "key": "4d9f9306",
  "stars": 9,
  "contributions": 360,
  "repos": 4,
- "followers": 15,
+ "followers": 16,
  "languages": [
   [
    "C#",
@@ -111,9 +111,13 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
